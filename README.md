@@ -1,0 +1,2 @@
+# lucyIA
+Repositorio
